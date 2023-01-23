@@ -1,0 +1,17 @@
+This Project is Developed by Mr. Gopesh Kumar and his group.
+
+** To run the project successfully.
+
+1.  Download the Project from my Google Drive .
+
+2.  Put the project into your E:\ drive 
+
+3.  Open E:\MyC#Program\BekriShop
+
+4. Run BakriShop.sin file 
+
+5. Create new user by clicking 'New Registration' option.
+
+6. Login with your username and Password.
+
+****************Thank You**********************

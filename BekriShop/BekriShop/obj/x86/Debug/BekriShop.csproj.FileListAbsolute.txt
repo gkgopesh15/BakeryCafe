@@ -1,0 +1,124 @@
+D:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe
+D:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.pdb
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csprojResolveAssemblyReference.cache
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form1.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Properties.Resources.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.GenerateResource.Cache
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.exe
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.pdb
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form2.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form3.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form10.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form11.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form13.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form14.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form4.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form5.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form6.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form7.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form8.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form9.resources
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.MainForm.resources
+D:\MyC#Program\BekriShop\BekriShop\bin\Debug\LoginDB.mdb
+D:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe.config
+D:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Bill.resources
+E:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe.config
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.exe
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.pdb
+E:\MyC#Program\BekriShop\BekriShop\bin\Debug\LoginDB.mdb
+E:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe
+E:\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.pdb
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Bill.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form1.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form10.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form11.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form13.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form14.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form2.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form3.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form4.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form5.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form6.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form7.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form8.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form9.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.MainForm.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Properties.Resources.resources
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.GenerateResource.Cache
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\LoginDB.mdb
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe.config
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.pdb
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.AssemblyReference.cache
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Bill.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form1.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form10.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form11.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form13.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form14.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form2.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form3.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form4.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form5.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form6.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form7.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form8.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form9.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.MainForm.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Properties.Resources.resources
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.GenerateResource.cache
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.CoreCompileInputs.cache
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.exe
+F:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.pdb
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\LoginDB.mdb
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe.config
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.pdb
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.AssemblyReference.cache
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Bill.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form1.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form10.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form11.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form13.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form14.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form2.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form3.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form4.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form5.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form6.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form7.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form8.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form9.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.MainForm.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Properties.Resources.resources
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.GenerateResource.cache
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.CoreCompileInputs.cache
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.exe
+E:\Semester_4\Project4th\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.pdb
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.AssemblyReference.cache
+E:\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.CoreCompileInputs.cache
+F:\4th Project\MyC#Program\BekriShop\BekriShop\bin\Debug\LoginDB.mdb
+F:\4th Project\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe.config
+F:\4th Project\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.exe
+F:\4th Project\MyC#Program\BekriShop\BekriShop\bin\Debug\BekriShop.pdb
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.AssemblyReference.cache
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Bill.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form1.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form10.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form11.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form13.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form14.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form2.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form3.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form4.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form5.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form6.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form7.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form8.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Form9.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.MainForm.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.Properties.Resources.resources
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.GenerateResource.cache
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.csproj.CoreCompileInputs.cache
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.exe
+F:\4th Project\MyC#Program\BekriShop\BekriShop\obj\x86\Debug\BekriShop.pdb
